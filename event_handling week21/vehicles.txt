@@ -1,0 +1,5 @@
+Car,SUpra,444,5,88.0,88.0
+Bike,Honda,66,4,true,66.0
+Car,BMW,66,4,88.0,76.0
+Bike,Honda,66,4,true,77.0
+Car,BmW,66,6,88.0,87.0

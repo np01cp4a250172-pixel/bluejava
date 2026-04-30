@@ -1,0 +1,17 @@
+#Sat Apr 11 20:23:20 NPT 2026
+bluej.teamsettings.git.branch=
+bluej.teamsettings.git.protocol=https
+bluej.teamsettings.git.repositoryPrefix=/suman222222/eventhangling_java.git
+bluej.teamsettings.git.server=github.com
+bluej.teamsettings.ignore1=.*\\.class
+bluej.teamsettings.ignore2=bluej\\.pkh
+bluej.teamsettings.ignore3=team\\.defs
+bluej.teamsettings.ignore4=.*\\.ctxt
+bluej.teamsettings.ignore5=.*\\~
+bluej.teamsettings.ignore6=.*\\\#
+bluej.teamsettings.ignore7=.*\\\#backup
+bluej.teamsettings.ignore8=\\.DS_Store
+bluej.teamsettings.user=suman222222
+bluej.teamsettings.vcs=git
+bluej.teamsettings.yourEmail=kaprisuman222@gmail.com
+bluej.teamsettings.yourName=Suman Kapri
